@@ -33,3 +33,9 @@ A basic yet detailed guide on becoming untracrable from government agencies usin
 
 Ketchup has been working an office job for little over two years, and Purple sauce the cousin of the viral Pink sauce just started working there after she had applied two days ago.
 [Amazon](https://www.amazon.com/dp/B0H4YHKXDW)
+
+## Trace: A basic guide on tracing people online.
+<img width="2000" height="1298" alt="88920" src="https://github.com/user-attachments/assets/f7597824-633a-4b44-a440-464b637ee83c" />
+
+A basic yet detailed guide on tracing individuals using only the web.
+[Amazon]()
