@@ -38,4 +38,4 @@ Ketchup has been working an office job for little over two years, and Purple sau
 <img width="2000" height="1298" alt="88920" src="https://github.com/user-attachments/assets/f7597824-633a-4b44-a440-464b637ee83c" />
 
 A basic yet detailed guide on tracing individuals using only the web.
-[Amazon]()
+[Amazon](https://www.amazon.com/dp/B0HSKYK22V)
